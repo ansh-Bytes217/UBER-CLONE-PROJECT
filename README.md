@@ -1,4 +1,5 @@
-Uber Clone - MERN Stack
+*Uber Clone - MERN Stack*
+
 A full-stack ride-hailing application built using the MERN stack that simulates key features of Uber. Users can sign up, book rides, view drivers on a map, and track ride status in real time.
 
 Features
